@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zohair-ahmed-nadeem
-- 😊 Nick is GENTALMAN
+- 😊 Nick is GENTELMAN
 -  👀 I’m interested in coading
 - 🌱 I’m currently learning ML
 - 📫 How to reach me ,my gmail:"zohairahmednadeemprince@gmail.com"
