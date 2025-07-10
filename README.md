@@ -4,11 +4,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;Zohair+Ahmed+Nadeem;Django+|+Python+Developer;Full+Stack+Learner"
     alt="Typing SVG"
   />
-  <img
-    src="https://avatars.githubusercontent.com/u/145790776?v=4"
-    width="200"
-    style="border-radius:50%; box-shadow:0 4px 12px rgba(0, 0, 0, 0.3); border:3px solid #FFD700; margin:20px 0;"
-  />
+  
 </div>
 
 ---
